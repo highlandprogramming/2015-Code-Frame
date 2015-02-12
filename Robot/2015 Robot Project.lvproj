@@ -137,7 +137,6 @@ AddOutputFilter chunkFilter
 		<Item Name="ChairTestAuto.vi" Type="VI" URL="../ChairTestAuto.vi"/>
 		<Item Name="Joystick Multipliers.vi" Type="VI" URL="../Encoders/Joystick Multipliers.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="Untitled 2.vi" Type="VI" URL="../Joystick Buttons/Untitled 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
