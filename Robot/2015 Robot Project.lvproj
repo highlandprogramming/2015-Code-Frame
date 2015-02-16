@@ -134,6 +134,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Carmera Motor Buttons.vi" Type="VI" URL="../Carmera Motor Buttons.vi"/>
 		<Item Name="ChairTestAuto.vi" Type="VI" URL="../ChairTestAuto.vi"/>
 		<Item Name="Joystick Multipliers.vi" Type="VI" URL="../Encoders/Joystick Multipliers.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
