@@ -798,7 +798,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
 			<Item Name="Auto 1 tote.vi" Type="VI" URL="../Auto 1 tote.vi"/>
-			<Item Name="auto.vi" Type="VI" URL="/P/Robotics/auto.vi"/>
+			<Item Name="auto.vi" Type="VI" URL="../auto.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
